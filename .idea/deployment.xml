@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="scz4135@NC-N30@ssh.cn-zhongwei-1.paracloud.com:2222 agent" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="scz4135@NC-N30@ssh.cn-zhongwei-1.paracloud.com:2222 agent">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/nlp/NLP" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zh@10.112.250.80:22 password (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/nlp/NLP" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
