@@ -1,4 +1,4 @@
-# 微调transformers在nlp两大任务上微调
+# 使用transformers在nlp两大任务上微调
 * 中文文本分类
 * 中文文本生成
 
